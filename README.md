@@ -35,13 +35,8 @@ You can try out the live demo of CineMate by visiting the link below:
 
 <h2 style="color: #1e90ff; font-family: Arial, sans-serif;">👩‍💻 How to Run Locally</h2>
 <ol style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
-  <li>Clone the repository: <code style="background-color: #f0f0f0; padding: 2px 4px; border-radius: 3px;">git clone https://github.com/your-username/cinemate.git</code></li>
+  <li>Clone the repository: <code style="background-color: #f0f0f0; padding: 2px 4px; border-radius: 3px;">git clone https://github.com/Rohit-64/CineGuide-Smart-Movie-Finder.git</code></li>
   <li>Navigate to the project directory: <code style="background-color: #f0f0f0; padding: 2px 4px; border-radius: 3px;">cd cinemate</code></li>
-  <li>Install the required packages: <code style="background-color: #f0f0f0; padding: 2px 4px; border-radius: 3px;">pip install -r requirements.txt</code></li>
   <li>Run the app: <code style="background-color: #f0f0f0; padding: 2px 4px; border-radius: 3px;">streamlit run app.py</code></li>
 </ol>
 
-<h2 style="color: #1e90ff; font-family: Arial, sans-serif;">📄 License</h2>
-<p style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
-This project is licensed under the MIT License - see the <a href="LICENSE" style="color: #b22222;">LICENSE</a> file for details.
-</p>
