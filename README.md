@@ -23,7 +23,7 @@ Welcome to CineMate! This project is a machine learning-based movie recommendati
 <p style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
 You can try out the live demo of CineMate by visiting the link below:
 </p>
-<a href="https://your-streamlit-app-link" style="font-family: Arial, sans-serif; color: #b22222; font-weight: bold;">🎬 CineMate: Live Demo</a>
+<a href="[https://your-streamlit-app-link](https://cineguide-smart-movie-finder-1.streamlit.app/)" style="font-family: Arial, sans-serif; color: #b22222; font-weight: bold;">🎬 CineMate: Live Demo</a>
 
 <h2 style="color: #1e90ff; font-family: Arial, sans-serif;">📂 Project Structure</h2>
 <ul style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
