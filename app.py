@@ -66,7 +66,7 @@ st.markdown("""
     .title {
         font-size: 32px; /* Adjust the size as needed */
         font-weight: bold;
-        color: #b22222;
+        color: #0f5132;
     }
     </style>
     <h1 class="title">🎬CineGuide: Smart Movie Finder🎥</h1>
