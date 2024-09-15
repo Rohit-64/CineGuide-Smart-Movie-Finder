@@ -60,7 +60,18 @@ def get_movie_recommendation(movie_name):
 # Streamlit UI
 st.set_page_config(page_title="Movie Recommendation System", page_icon="🎥", layout="centered", initial_sidebar_state="auto")
 
-st.title("🎥 Movie Recommendation System")
+# Reduced font size for the title
+st.markdown("""
+    <style>
+    .title {
+        font-size: 32px; /* Adjust the size as needed */
+        font-weight: bold;
+        color: #b22222;
+    }
+    </style>
+    <h1 class="title">🎬BreadcrumbsCineGuide: Smart Movie Finder🎥</h1>
+    """, unsafe_allow_html=True)
+
 st.markdown("Find movie recommendations based on your favorite movies!")
 
 # Input movie name
@@ -85,9 +96,6 @@ st.markdown(
     .reportview-container {
         background: #f0f2f6;
         color: #000;
-    }
-    .title {
-        color: #b22222;
     }
     </style>
     """,
