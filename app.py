@@ -69,7 +69,7 @@ st.markdown("""
         color: #b22222;
     }
     </style>
-    <h1 class="title">🎬BreadcrumbsCineGuide: Smart Movie Finder🎥</h1>
+    <h1 class="title">🎬CineGuide: Smart Movie Finder🎥</h1>
     """, unsafe_allow_html=True)
 
 st.markdown("Find movie recommendations based on your favorite movies!")
